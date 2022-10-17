@@ -112,6 +112,7 @@ function App() {
       </div>
       <div className="Background-Wrapper">
         <Navbar />
+        
       </div>
     </React.Fragment>
   );
